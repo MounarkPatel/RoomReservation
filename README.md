@@ -1,5 +1,5 @@
 # RoomReservation
-This program implements a reservation system for booking time in a collection of rooms.  It provides the creation and deletion of reservations (on a single day), and prints information about the overall schedule and the reservations held by a particular person. 
+This program implements a reservation system for booking time in a collection of rooms.  It provides the creation and deletion of reservations (on a single day), and prints information about the overall schedule. 
 # Windows Compiler
 This is for [Windows](https://msdn.microsoft.com/en-us/library/bb384838.aspx) users.
 # Compiling and running multiple files with clang (OSX preferred way)
