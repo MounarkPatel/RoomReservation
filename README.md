@@ -28,7 +28,7 @@ Enter command (r,x,s,q): r
 \
 === MAKE RESERVATION ===
 \
-Enter name (one word): //There is a chunk of code that makes sure name does not exceed 20 chars the 20 chars can be //comprimised of 
+Enter name (one word): //There is a chunk of code that makes sure name does not exceed 20 chars the 20 chars can be //comprised of 
 chars that are not letters so no ERROR checking for the actual characters
 \
 Start Time (hh:mm, 24-hr): //note: you do not need to have a 0 before a single digit hour for example 09:00 == 9:00 also if //you enter
