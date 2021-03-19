@@ -12,7 +12,6 @@ This is for [Windows](https://msdn.microsoft.com/en-us/library/bb384838.aspx) us
 ~~To run...~~
 7. ./Program
 # Compiling and running multiple files with GCC (Linux)
-Use gcc on OSX at your own risk.
 1. Open Terminal 
 2. cd to the directory where the project is
 3. gcc -c -Wall -Werror -o m main.c
